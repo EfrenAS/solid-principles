@@ -1,0 +1,16 @@
+{
+    "name": "efren/1-single-resposibility",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Efren",
+            "email": "50155831+EfrenAS@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
